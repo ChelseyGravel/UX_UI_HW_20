@@ -1,0 +1,49 @@
+
+body {
+    font-family: 'Lora', sans-serif;
+    background-color: black;
+  }
+
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color:#6663D4 !important;
+
+
+}
+
+.navbar-collapse {
+    flex-grow: unset;
+
+}
+.navbar-expand-lg .navbar-nav li {
+    padding:5%;
+}
+nav{
+    background-color: black;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+nav .hamburger {
+    width:180px ;
+    text-align: right;
+}
+
+.dropdown-menu {
+    background-color: black;
+    
+}
+
+
+
+}
+.jumbotron {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:60%;
+    background-color: #63999B;
+
+}
+
