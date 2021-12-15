@@ -3,7 +3,7 @@ body {
     font-family: 'Lora', sans-serif;
     background-color: black !important;
   }
-.navbar-1 {
+.navbar {
     background-color: black !important;
     opacity: 1 !important;
 
@@ -42,7 +42,7 @@ nav .hamburger {
 
 
 
-.jumbotron-1 {
+.jumbotron {
     display: flex;
     align-items: center;
     justify-content: center;
