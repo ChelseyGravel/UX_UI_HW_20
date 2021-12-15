@@ -43,11 +43,11 @@ nav .hamburger {
 
 
 .jumbotron-1 {
+    background-color: #63999B !important;
     display: flex;
     align-items: center;
     justify-content: center;
     height:60%;
-    background-color: #63999B !important;
     padding: 10px;
     margin: 50px 500px 20px 200px;
 }
