@@ -3,13 +3,13 @@ body {
     font-family: 'Lora', sans-serif;
     background-color: black;
   }
-
+.navbar {
+    background-color: black !important;
+}
 
 
 .navbar-dark .navbar-nav .nav-link {
     color:#6663D4 !important;
-
-
 }
 
 .navbar-collapse {
@@ -35,15 +35,219 @@ nav .hamburger {
     
 }
 
-
-
+.dropdown-item {
+    color: #6663D4 !important;
 }
+
+
+
 .jumbotron {
     display: flex;
     align-items: center;
     justify-content: center;
     height:60%;
     background-color: #63999B;
-
+    padding: 10px;
+    margin: 50px 500px 20px 200px;
 }
 
+.display-4 {
+    font-family: 'Lora', sans-serif !important;
+}
+
+.lead {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.list-group {
+    margin: 10px 1000px 20px 10px;
+}
+
+.list-group-item {
+    background-color: black !important;
+    color: #6663D4 !important;
+    border: none;
+}
+
+#list-item-1 {
+    display: flex;
+    color: #6663D4;
+    justify-content: center;
+    margin: 10px 20px 30px 10px;
+    flex-direction: row;
+}
+
+.card-deck-1 {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 30px 30px 300px;
+}
+
+.card-1 {
+    margin: 10px 20px 10px 20px;
+    background-color: #C4C4C4;
+    border-radius: 10px;
+}
+
+
+.card-deck-2 {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 30px 30px 30px;
+}
+
+.card-2 {   
+    margin: 10px 15px 10px 15px;
+    background-color: #C4C4C4;
+    border-radius: 10px;
+
+}
+.card-deck-3 {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 30px 30px 30px;
+}
+
+.card-3 {
+    margin: 10px 15px 10px 15px;
+    background-color: #C4C4C4;
+    border-radius: 10px;
+}
+
+#list-item-2 {
+    display: flex;
+    color: #6663D4;
+    justify-content: center;
+}
+
+.row {
+    margin: 20px 40px 30px 40px;
+}
+.card-ProblemStatement {
+    border-radius: 10px;
+    background-color: white;
+    padding-bottom: 20px;
+}
+.card-Solution {
+    border-radius: 10px;
+    background-color: white;
+}
+.card-deck-4 {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 30px 30px 30px;
+}
+.card-4 {
+    margin: 10px 15px 10px 15px;
+    background-color: #C4C4C4;
+    border-radius: 10px;
+}
+.card-deck-5 {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 30px 30px 30px;
+}
+.card-5 {
+    margin: 10px 15px 10px 15px;
+    background-color: #C4C4C4;
+    border-radius: 10px;
+}
+
+#list-item-3 {
+    display: flex;
+    color: #6663D4;
+    justify-content: center;
+    margin: 10px 20px 30px 10px;
+}
+.card-deck-6 {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 30px 30px 30px;
+}
+.card-6 {
+    margin: 10px 15px 10px 15px;
+    background-color: #C4C4C4;
+    border-radius: 10px;
+}
+.card-deck-7 {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 30px 30px 30px;
+}
+.card-7-1 {
+    margin: 10px 0px 10px 40px;
+    background-color: #C4C4C4;
+    border-radius: 10px;
+}
+.card-7-2 {
+    margin: 10px 40px 10px 200px;
+    background-color: #C4C4C4;
+    border-radius: 10px;
+}
+
+#list-item-4 {
+    display: flex;
+    color: #6663D4;
+    justify-content: center;
+    margin: 10px 20px 30px 10px;
+}
+.align-items-start {
+    display: flex;
+    justify-content: center;
+}
+
+.card-link {
+    display: flex;
+    justify-content: end;
+    color: #6663D4 !important
+}
+
+#list-item-5 {
+    display: flex;
+    color: #6663D4;
+    justify-content: center;
+}
+
+.jumbotron-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:60%;
+    background-color: #63999B;
+    padding: 10px;
+    margin: 50px 200px 20px 200px;
+}
+.lead-2 {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+footer {
+    display: flex;
+    padding: 200px 30px 30px 30px;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: flex-end;
+}
+.nav-copyright {
+    color: #6663D4 !important;
+    margin-right: 200px;
+    
+}
+.nav-mail {
+    margin-left: 200px;
+}
+
+.card-img-top {
+    size: 200px;
+    border-radius: 10px;
+   }
+   .card-title {
+       color: black;
+       font-family: 'Lora', sans-serif;
+   }
+   
+   .card-text {
+       font-family: 'Roboto', sans-serif;;
+   }
